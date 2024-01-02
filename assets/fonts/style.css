@@ -1,0 +1,20 @@
+@font-face {
+   font-family: 'Roboto-Bold';
+   font-display: swap;
+   src: url('Roboto-Bold/font.ttf');
+}
+@font-face {
+   font-family: 'Jost-VariableFont_wght';
+   font-display: swap;
+   src: url('Jost-VariableFont_wght/font.ttf');
+}
+@font-face {
+   font-family: 'Montserrat-VariableFont_wght';
+   font-display: swap;
+   src: url('Montserrat-VariableFont_wght/font.ttf');
+}
+@font-face {
+   font-family: 'Raleway-VariableFont_wght';
+   font-display: swap;
+   src: url('Raleway-VariableFont_wght/font.ttf');
+}
